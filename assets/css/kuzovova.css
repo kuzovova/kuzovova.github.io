@@ -14,6 +14,11 @@ body {
 	font-family: "Roboto", Arial, sans-serif;
 }
 
+
+html, body {
+    overflow-x: hidden; 
+}﻿
+
 h3 {
 	height: 170px;
 }
